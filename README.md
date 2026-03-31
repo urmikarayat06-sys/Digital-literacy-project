@@ -25,7 +25,7 @@ This repository contains the complete documentation and deliverables for the **C
 
 ## 🔗 Task 3: Interactive Resource
 I have designed a **Digital Literacy Awareness Quiz** to help students evaluate their knowledge of online safety.
-👉 **[Take the Quiz Here]()**
+👉 **[Take the Quiz Here](https://forms.gle/aRqjeSEJHT2aD2iC9)**
 
 ---
 
