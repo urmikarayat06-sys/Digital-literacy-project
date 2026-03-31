@@ -43,5 +43,5 @@ Through this project, I have committed to improving my digital hygiene, specific
 ---
 
 ## 📬 Contact
-* **GitHub:**
-* **LinkedIn:** 
+* **GitHub:**(https://github.com/urmikarayat06-sys)
+* **LinkedIn:**(https://www.linkedin.com/in/urmi-karayat-98036737b/)
